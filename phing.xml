@@ -1,5 +1,6 @@
-
 <entry>
-    <version>2.4.13</version>
-    <url>http://github.com/genu/docsets/Phing.tgz</url>
+    <version>1.0.5</version>
+    <url>http://dash-docsets.googlecode.com/files/AngularJS.tgz</url>
+    <url>http://kapeli.com/feeds/AngularJS.tgz</url>
+    <url>https://raw.github.com/Kapeli/feeds/master/AngularJS.tgz</url>
 </entry>
